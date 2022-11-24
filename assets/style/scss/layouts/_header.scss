@@ -1,0 +1,23 @@
+nav{
+.header-top{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+}
+.header-bottom{
+    .container{
+        margin-right:190px;
+        margin-left:190px;
+    }
+    border: 2px solid black;
+    height:50px;
+    background-color: black;
+    color: white;
+    ul{
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+        
+    }
+}

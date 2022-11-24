@@ -1,0 +1,12 @@
+.right-side{
+    display:flex;
+    ul{
+        margin-left: 40px;
+        display: inline;
+        display: flex;
+        list-style-type: none;
+     li{
+         padding: 0 10px;
+     }
+    }
+}
